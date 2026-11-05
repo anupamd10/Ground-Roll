@@ -1,0 +1,56 @@
+{
+ "field_shot": {
+  "CNN paper-synthetic": {
+   "gr_removed_db": 7.698201981323604,
+   "signal_fidelity_db": 5.351576822051837,
+   "fk_zone_removed_db": 14.872175216674805
+  },
+  "high-pass 25 Hz": {
+   "gr_removed_db": 41.14873355686102,
+   "signal_fidelity_db": 1.3814767574866575,
+   "fk_zone_removed_db": 34.39702224731445
+  },
+  "CNN survey-matched": {
+   "gr_removed_db": 8.261329373131336,
+   "signal_fidelity_db": 5.09351481471543,
+   "fk_zone_removed_db": 13.530559539794922
+  },
+  "high-pass 45 Hz": {
+   "gr_removed_db": 47.08369431963795,
+   "signal_fidelity_db": 0.45005742468911397,
+   "fk_zone_removed_db": 42.948448181152344
+  },
+  "f-k (paper mask)": {
+   "gr_removed_db": 4.291667564422055,
+   "signal_fidelity_db": 12.664015544483396,
+   "fk_zone_removed_db": 23.4182186126709
+  }
+ },
+ "shot_gather_502": {
+  "CNN paper-synthetic": {
+   "gr_removed_db": 9.11635677164864,
+   "signal_fidelity_db": 4.1683529918129665,
+   "fk_zone_removed_db": 8.864947319030762
+  },
+  "high-pass 25 Hz": {
+   "gr_removed_db": 43.26554547241706,
+   "signal_fidelity_db": 0.4346306169434095,
+   "fk_zone_removed_db": 17.144306182861328
+  },
+  "CNN survey-matched": {
+   "gr_removed_db": 11.870600326049225,
+   "signal_fidelity_db": 3.1805634076372225,
+   "fk_zone_removed_db": 10.003714561462402
+  },
+  "high-pass 45 Hz": {
+   "gr_removed_db": 48.44314110494169,
+   "signal_fidelity_db": 0.29667229189839917,
+   "fk_zone_removed_db": 20.04412078857422
+  },
+  "f-k (paper mask)": {
+   "gr_removed_db": 15.701044797777213,
+   "signal_fidelity_db": 3.052390700413892,
+   "fk_zone_removed_db": 27.669830322265625
+  }
+ }
+}

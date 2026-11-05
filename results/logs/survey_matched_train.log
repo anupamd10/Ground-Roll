@@ -1,0 +1,37 @@
+ground-roll energy leaking into the untouched high band: 0.0307%
+train patches 22800 from 16 gathers, val patches 2850 from 2 gathers
+params 0.09M, receptive field 21px, device cpu
+ep   1  train sim 0.4002  val sim 0.2425  disc 3.512  lr 5.0e-04  236s  *
+ep   2  train sim 0.1675  val sim 0.0987  disc 3.253  lr 5.0e-04  214s  *
+ep   3  train sim 0.1300  val sim 0.0649  disc 3.132  lr 5.0e-04  90s  *
+ep   4  train sim 0.1171  val sim 0.0941  disc 3.276  lr 5.0e-04  44s
+ep   5  train sim 0.1018  val sim 0.0594  disc 3.187  lr 5.0e-04  44s  *
+ep   6  train sim 0.1003  val sim 0.0582  disc 3.241  lr 5.0e-04  44s  *
+ep   7  train sim 0.0870  val sim 0.0557  disc 3.393  lr 5.0e-04  43s  *
+ep   8  train sim 0.0807  val sim 0.0525  disc 3.271  lr 5.0e-04  43s  *
+ep   9  train sim 0.0769  val sim 0.0709  disc 3.277  lr 5.0e-04  45s
+ep  10  train sim 0.0792  val sim 0.0357  disc 3.115  lr 5.0e-04  44s  *
+ep  11  train sim 0.0760  val sim 0.0504  disc 3.248  lr 5.0e-04  43s
+ep  12  train sim 0.0733  val sim 0.0518  disc 3.306  lr 5.0e-04  43s
+ep  13  train sim 0.0689  val sim 0.0410  disc 3.201  lr 2.5e-04  44s
+ep  14  train sim 0.0628  val sim 0.0375  disc 3.243  lr 2.5e-04  44s
+ep  15  train sim 0.0631  val sim 0.0421  disc 3.227  lr 2.5e-04  43s
+ep  16  train sim 0.0611  val sim 0.0374  disc 3.199  lr 1.3e-04  43s
+ep  17  train sim 0.0567  val sim 0.0265  disc 3.196  lr 1.3e-04  43s  *
+ep  18  train sim 0.0566  val sim 0.0311  disc 3.170  lr 1.3e-04  44s
+ep  19  train sim 0.0570  val sim 0.0300  disc 3.215  lr 1.3e-04  44s
+ep  20  train sim 0.0573  val sim 0.0278  disc 3.252  lr 6.3e-05  43s
+ep  21  train sim 0.0546  val sim 0.0278  disc 3.247  lr 6.3e-05  43s
+ep  22  train sim 0.0582  val sim 0.0270  disc 3.275  lr 6.3e-05  43s
+ep  23  train sim 0.0516  val sim 0.0266  disc 3.191  lr 3.1e-05  43s
+ep  24  train sim 0.0546  val sim 0.0251  disc 3.256  lr 3.1e-05  44s  *
+ep  25  train sim 0.0541  val sim 0.0325  disc 3.354  lr 3.1e-05  43s
+ep  26  train sim 0.0541  val sim 0.0276  disc 3.278  lr 3.1e-05  43s
+ep  27  train sim 0.0537  val sim 0.0268  disc 3.257  lr 1.6e-05  44s
+ep  28  train sim 0.0543  val sim 0.0270  disc 3.216  lr 1.6e-05  44s
+ep  29  train sim 0.0525  val sim 0.0260  disc 3.249  lr 1.6e-05  43s
+ep  30  train sim 0.0550  val sim 0.0266  disc 3.253  lr 7.8e-06  43s
+ep  31  train sim 0.0528  val sim 0.0259  disc 3.239  lr 7.8e-06  43s
+ep  32  train sim 0.0523  val sim 0.0260  disc 3.250  lr 7.8e-06  44s
+early stop at epoch 32
+saved runs/matched/best.pt
