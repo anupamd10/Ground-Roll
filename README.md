@@ -1,6 +1,5 @@
 # Ground-roll separation with a CNN (corrected pipeline)
 
-A PyTorch implementation of Jia, Lu, Zhang & Miao, *Ground-roll separation from land seismic records based on convolutional neural network*. It follows the paper's pipeline, with the bugs found in review fixed.
 
 ```
 m ──zero-phase low-pass──► m_low ─┐
